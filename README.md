@@ -27,5 +27,11 @@ _text is the most unstructured form of all the available data, various types of 
 _ Noise Removal(Expressions,Stop_words)
   Lexicon Normalization(Stemming, lemming)
   Object Standardization(acronyms, hashtags with attached words, and colloquial slangs)
+  
+# Feature Engineering:
+
+_ To analyse a preprocessed data, it needs to be converted into features. Depending upon the usage, text features can be constructed using assorted techniques – Syntactical Parsing, Entities / N-grams / word-based features, Statistical features, and word embeddings.
+
+
 
 
