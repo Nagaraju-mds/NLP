@@ -33,5 +33,15 @@ _ Noise Removal(Expressions,Stop_words)
 _ To analyse a preprocessed data, it needs to be converted into features. Depending upon the usage, text features can be constructed using assorted techniques – Syntactical Parsing, Entities / N-grams / word-based features, Statistical features, and word embeddings.
 
 
+## NER - Named Entity Recognition ##
+
+https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-recognition-eda8c97c2db1
+
+Standford NER,
+spaCy,
+NLTK,
+Deep Learning.
+
+
 
 
