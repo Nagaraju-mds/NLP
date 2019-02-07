@@ -41,6 +41,8 @@ _ To analyse a preprocessed data, it needs to be converted into features. Depend
 
 ## NER - Named Entity Recognition ##
 
+_ In any text document, there are particular terms that represent specific entities that are more informative and have a unique context. These entities are known as named entities , which more specifically refer to terms that represent real-world objects like people, places, organizations, and so on, which are often denoted by proper names. A naive approach could be to find these by looking at the noun phrases in text documents. Named entity recognition (NER) , also known as entity chunking/extraction , is a popular technique used in information extraction to identify and segment the named entities and classify or categorize them under various predefined classes.
+
 
 https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-recognition-eda8c97c2db1
 
