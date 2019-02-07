@@ -41,12 +41,19 @@ _ To analyse a preprocessed data, it needs to be converted into features. Depend
 
 ## NER - Named Entity Recognition ##
 
+
 https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-recognition-eda8c97c2db1
 
+https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da
+
 Standford NER,
-spaCy,
+SpaCy,
 NLTK,
-Deep Learning.
+Deep Learning,
+GATE(General Architecture for Text Engineering ) ( UI ),
+Carrot2 ( Python based ) ( UI ),
+OpenNLP ( Apache project ) ( No UI ),
+TM ( R ) ( No UI).
 
 
 
